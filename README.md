@@ -1,2 +1,2 @@
 # ControlDCMot
-Commande de moteur à courant continu
+A Commande de moteur à courant continu
